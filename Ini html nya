@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>EDISI MUDIK</title>
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet"><link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+  
+<div class="card">
+		<div class="imgBox">
+			<div class="bark"></div>
+			<img src="cover.jpg">
+		</div>
+		<div class="details">
+			<h4 class="color1">DEAR, MON CIEL!</h4>
+			<h4 class="color2 margin">(Selamat mudik kesayangan Cyn)</h4>
+			<p>Selamat mudik kesayangannya Cyn</p>
+			<p>perginya pake motor ya?? hmm tiatii</p>
+			<p>Pake jaket yg tebel, sarung tangan, helm,</p>
+			<p>sepatu, kacamata juga bisi kena virus</p>
+			<p>fokus nyetirnya jangan sambil ngahuleng,</p>
+			<p>pokoknya harus safety riding</p>
+			<p>kabarin yaa kl sempet</p>
+			<p>fii amanillah <3</p>
+			<p class="text-right">xoxo,</p>
+			<p class="text-right">Cynth</p>
+		</div>
+	</div>
+
+<link rel="stylesheet"
+href="ini style nya.css">
+
+</body>
+</html>
